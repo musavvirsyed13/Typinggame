@@ -1,3 +1,10 @@
+# Simple Typing Game using React JS
+
+![typinggameimg](https://user-images.githubusercontent.com/88196804/168452658-25840066-51ee-4887-9a8e-2c8866c6bd80.png)
+
+![typinggameimg1](https://user-images.githubusercontent.com/88196804/168452668-140df5be-e458-48b0-95e7-76a95e137fcc.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
